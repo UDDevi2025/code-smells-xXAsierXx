@@ -13,14 +13,6 @@ public class Checkpoint : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit(Collider other)
-    {
-        
-    }
-
-    private void OnTriggerStay(Collider other)
-    {
-        
-    }
+    
 
 }
